@@ -3,7 +3,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satendra kaushik
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vishal Yadav
 ========================================================================================================================================
 
 Crafting Code and Building Dreams: Engineer Extraordinaire 💻✨"
@@ -23,7 +23,7 @@ Crafting Code and Building Dreams: Engineer Extraordinaire 💻✨"
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/satendra-kaushik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satendra kaushik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/satendra-kaushik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Yadav" height="30" width="40" /></a>
 </p>
 
 ## 💻 Technology Stack
