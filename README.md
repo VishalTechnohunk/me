@@ -15,7 +15,7 @@ Crafting Code and Building Dreams: Engineer Extraordinaire 💻✨"
 
 - 👨‍💻 All of my projects are available at [linkedin.com/in/satendra-kaushik]([www.linkedin.com/in/satendra-kaushik](https://www.linkedin.com/in/satendra-kaushik/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
-- 📫 How to reach me **satendrakaushik2002@gmail.com**
+- 📫 How to reach me **Vishaltechnohunk@gmail.com**
 
 - ⚡ Fun fact **Code Creator and Dream Builder | Turning Ideas into Reality 🚀 | Tea Lover ☕**
 
@@ -23,7 +23,7 @@ Crafting Code and Building Dreams: Engineer Extraordinaire 💻✨"
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/satendra-kaushik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Yadav" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/vishal-yadav-1a7604257/" class="social-link"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Yadav" height="30" width="40" /></a>
 </p>
 
 ## 💻 Technology Stack
@@ -64,7 +64,7 @@ Crafting Code and Building Dreams: Engineer Extraordinaire 💻✨"
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/satendraka6"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/satendraka6" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satendrakaushik&show_icons=true&locale=en&layout=compact" alt="satendrakaushik" /></p>
+<p><img align="left" src="href="https://github.com/VishalTechnohunk" class="social-link"</p>
 
 
 <br><br><br><br><br><br>
